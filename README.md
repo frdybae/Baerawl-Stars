@@ -1,6 +1,5 @@
 # Baerawl Stars
 
-# Enezigership
 
 ### 친환경 선박
 
@@ -17,9 +16,9 @@
 
 ### 팀 소개
 
-팀장 : 김우섭(제작 및 설계)
+팀장 : 김우섭(제작 및 설계, 최종PPT)
 
-팀원 : 배동윤(제작 및 설계), 정진우(피드백 및 발표)
+팀원 : 배동윤(제작 및 설계, 청소), 정진우(초기 발표, 치어리더), 홍준혁(중간 PPT, 최종 발표)
 
 email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)
 
@@ -27,7 +26,7 @@ email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)
 
 - **개발에 사용된 기술**
     
-    아두이노 가스 센서, 카메라 센서, 장애물 감지 센서, 부저 센서, 충격 센서, sketchfab
+    아두이노 가스 센서, 카메라 센서, 장애물 감지 센서, 부저 센서, 충격 센서, 태양광 패널, 3D Model, Blender, sketchfab
     
 - **개발에 소요된 물품 및 준비물**
     
