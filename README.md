@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Baerawl%20Stars&fontSize=90)
+![U-boat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/U534.jpg/450px-U534.jpg)
+
 
 ## ⚓ 친환경 IOT u-boat 
 
@@ -33,6 +35,7 @@ email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)
     <img src="https://img.shields.io/badge/블렌더-ff7f00?style=flat-square&logo=blender&logoColor=gray"/>
     <img src="https://img.shields.io/badge/스케치팹-c0c0c0?style=flat-square&logo=sketchfab&logoColor=black"/>
     <img src="https://img.shields.io/badge/블루투스-6f00ff?style=flat-square&logo=bluetooth&logoColor=white"/>
+    <img src="https://img.shields.io/badge/삼성-0000ff?style=flat-square&logo=samsung&logoColor=white"/>
 
     
 - **개발에 소요된 물품 및 준비물**
