@@ -1,7 +1,7 @@
 # Baerawl Stars
 
 
-### 친환경 선박
+### <span style="color:blue"> 친환경 선박 </span> 
 
 - **개발 동기**
     
