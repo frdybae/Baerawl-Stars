@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Baerawl%20Stars&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8b00ff&height=300&section=header&text=Baerawl%20Stars&fontSize=90)
 ![U-boat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/U534.jpg/450px-U534.jpg)
 
 
@@ -21,11 +21,12 @@
 ### 📌 팀 소개
 ---------
 
-팀장 : 김우섭(제작 및 설계, 최종PPT)
+- **팀장 : 김우섭(제작 및 설계, 최종PPT)**
 
-팀원 : 배동윤(제작 및 설계, 청소), 정진우(초기 발표, 치어리더), 홍준혁(중간 PPT, 최종 발표)
+- **팀원 : 배동윤(제작 및 설계, 청소), 정진우(초기 발표, 치어리더), 홍준혁(중간 PPT, 최종 발표)**
 
-email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)
+- **email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)**
+- **[USB](https://ibb.co/dQ26n0S)**
 
 ### 🖥 사용 기술
 --------
