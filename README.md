@@ -25,7 +25,7 @@ email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)
 
 - **개발에 사용된 기술**
 
-    <img src="https://img.shields.io/badge/아두이노-FFCA28?style=flat-square&logo=arduino&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/아두이노-4aa8d8?style=flat-square&logo=arduino&logoColor=blue"/>
 
     아두이노 가스 센서, 카메라 센서, 장애물 감지 센서, 부저 센서, 충격 센서, 태양광 패널, 3D Model, Blender, sketchfab, 
     
