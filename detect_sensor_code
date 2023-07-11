@@ -1,0 +1,19 @@
+int Buzzer = 7;
+int Sensor = 9;
+int val;
+
+void setup () {
+  pinMode(Buzzer, OUTPUT);
+  pinMode(Sensor, INPUT);
+}
+
+void loop () {
+  val = digitalRead(Sensor);
+  if (val == HIGH) {
+    noTone(7);
+    delay(100);
+  } else{
+    tone(7, 220);
+    delay(100);
+  }
+}
