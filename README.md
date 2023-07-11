@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Baerawl%20Stars&fontSize=90)
 
-### <span style="color:blue"> 친환경 선박 </span> 
+## ⚓ 친환경 IOT u-boat 
 
 - **개발 동기**
     
@@ -11,9 +11,13 @@
     
     친환경 선박 제작의 최종 목표는 우리나라의 선박 산업에 발전을 기여할 것이며 온실가스와 오염물질 배출량을 최대한 줄이는게 저희 팀의 궁극적인 목표입니다.
     또한 내부 시스템을 전부 자동화로 전환하여 자동화 선박에도 접근할 것입니다.
+
+
+  
     
 
-### 팀 소개
+### 📌 팀 소개
+---------
 
 팀장 : 김우섭(제작 및 설계, 최종PPT)
 
@@ -21,27 +25,19 @@
 
 email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)
 
-### 사용 기술
-
+### 🖥 사용 기술
+--------
 - **개발에 사용된 기술**
 
-    <img src="https://img.shields.io/badge/아두이노-4aa8d8?style=flat-square&logo=arduino&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/아두이노-4aa8d8?style=flat-square&logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/블렌더-ff7f00?style=flat-square&logo=blender&logoColor=gray"/>
+    <img src="https://img.shields.io/badge/스케치팹-c0c0c0?style=flat-square&logo=sketchfab&logoColor=black"/>
+    <img src="https://img.shields.io/badge/블루투스-6f00ff?style=flat-square&logo=bluetooth&logoColor=white"/>
 
-    아두이노 가스 센서, 카메라 센서, 장애물 감지 센서, 부저 센서, 충격 센서, 태양광 패널, 3D Model, Blender, sketchfab, 
     
 - **개발에 소요된 물품 및 준비물**
     
-    나무젓가락
-    
-    전지가위
-    
-    3D 프린터
-    
-    글루건
+    나무젓가락/전지가위/3D 프린터/글루건/리듬막대/하드막대
 
-    리듬막대
-
-    하드막대
-
-
+--------------------------------------------
   
