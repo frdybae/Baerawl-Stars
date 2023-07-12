@@ -26,7 +26,6 @@
 - **팀원 : 배동윤(제작 및 설계, 청소), 정진우(초기 발표, 치어리더), 홍준혁(중간 PPT, 최종 발표)**
 
 - **email : [kkromio08@gmail.com](mailto:kkromio08@gmail.com)**
-- **[USB](https://ibb.co/dQ26n0S)**
 
 ### 🖥 사용 기술
 --------
